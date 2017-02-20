@@ -1,5 +1,4 @@
 # Name: Noushin Iqra
-# Last modified date: 12/8/2016
 # This program gets integer inputs from the user to store in an array of size 10, then prints out each element, 
 # along with the sum of all 10 elements.
 # This program in C++ language:              
