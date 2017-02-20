@@ -1,6 +1,8 @@
 # Name: Noushin Iqra
 # Last modified date: 12/8/2016
-# in C language: gets inputs from the user to store in an array of size 10, then prints out each element, along with the sum of all 10 elements 
+# This program gets integer inputs from the user to store in an array of size 10, then prints out each element, 
+# along with the sum of all 10 elements.
+# This program in C++ language:              
 #		int main () { 	
 #		int n, a[10], sum = 0;
 #		    for(int i=0; i<10; i++) {
